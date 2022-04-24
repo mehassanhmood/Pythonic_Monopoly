@@ -29,11 +29,11 @@ Visualisations used in this assignment are:
 5. Top 10 most expensive Neighbourhoods in Toronto.
 ![alt text](expensive.jpg "Top 10 Most Expensive Neighbourhoods")
 6. Map representation :
-[alt_text](map.jpg "Scatter Map")
+[alt text](map.jpg "Scatter Map")
 ### Dashboard :
 And lastly in a sperate file i made a dashboard to assemble all visuallizations for accesing and understanding the data ina better way.
 The components involved in making the dashboard are:
 1. Tile
 2. Welcome Text.
 3. Tabs.
-[alt_text](Dashboard.jpg "Dashboard")
+[alt text](Dashboard.jpg "Dashboard")
