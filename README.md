@@ -21,7 +21,7 @@ Visualisations used in this assignment are:
 ![alt text](2001-2006.jpg "2001 and 2006")
 ![alt text](2011-2016.jpg "2011 and 2016")
 2. Average monthly shelter costs in Toronto per year and  Average house Value per year.
-![alt text](averages.jpg "Owned,Rented,Annual")
+![alt text](averages_line.jpg "Owned,Rented,Annual")
 3. Average prices by neighbourhood.
 ![alt text](hood_line.jpg "Prices in different neighbourhoods")
 4. Number of dwelling types per year.
